@@ -1,0 +1,352 @@
+<mxfile host="Electron" modified="2024-02-19T10:10:33.519Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/23.1.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="Sxh9uPnzYdGIp1FDIeZd" version="23.1.5" type="device">
+  <diagram name="Page-1" id="cSVAFNxTVJS2mxv3rs1R">
+    <mxGraphModel dx="3585" dy="2490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NILFLuNYxO4apskMM7i6-3" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="NILFLuNYxO4apskMM7i6-1" target="NILFLuNYxO4apskMM7i6-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NILFLuNYxO4apskMM7i6-1" value="&lt;font style=&quot;font-size: 37px;&quot;&gt;1&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="320" y="560" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NILFLuNYxO4apskMM7i6-6" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="NILFLuNYxO4apskMM7i6-2" target="NILFLuNYxO4apskMM7i6-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NILFLuNYxO4apskMM7i6-2" value="&lt;font style=&quot;font-size: 37px;&quot;&gt;2&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="320" y="320" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NILFLuNYxO4apskMM7i6-4" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Requirement &lt;br&gt;Gathering (1 days)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="400" y="460" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NILFLuNYxO4apskMM7i6-9" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="NILFLuNYxO4apskMM7i6-5" target="NILFLuNYxO4apskMM7i6-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NILFLuNYxO4apskMM7i6-5" value="&lt;font style=&quot;font-size: 37px;&quot;&gt;3&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="320" y="80" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NILFLuNYxO4apskMM7i6-7" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Identify Project Goals&lt;br&gt;and Objectives &lt;br&gt;(2 days)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="400" y="205" width="210" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="NILFLuNYxO4apskMM7i6-12" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="NILFLuNYxO4apskMM7i6-8" target="NILFLuNYxO4apskMM7i6-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NILFLuNYxO4apskMM7i6-8" value="&lt;font style=&quot;font-size: 37px;&quot;&gt;4&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="320" y="-170" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NILFLuNYxO4apskMM7i6-10" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Identify Project &lt;br&gt;Stakeholders &lt;br&gt;(2 day)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="395" y="-40" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="NILFLuNYxO4apskMM7i6-15" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="NILFLuNYxO4apskMM7i6-11" target="NILFLuNYxO4apskMM7i6-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NILFLuNYxO4apskMM7i6-11" value="&lt;font style=&quot;font-size: 37px;&quot;&gt;5&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="600" y="-320" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NILFLuNYxO4apskMM7i6-13" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Setting Up The &lt;br&gt;Project Infrastructure &lt;br&gt;(4 days)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="320" y="-310" width="210" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="NILFLuNYxO4apskMM7i6-22" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;endArrow=none;endFill=0;" parent="1" source="NILFLuNYxO4apskMM7i6-14" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="-160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NILFLuNYxO4apskMM7i6-42" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="NILFLuNYxO4apskMM7i6-14" target="NILFLuNYxO4apskMM7i6-41" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NILFLuNYxO4apskMM7i6-57" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;endArrow=none;endFill=0;" parent="1" source="NILFLuNYxO4apskMM7i6-14" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1280" y="-200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NILFLuNYxO4apskMM7i6-90" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;endArrow=none;endFill=0;" parent="1" source="NILFLuNYxO4apskMM7i6-14" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1600" y="-240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NILFLuNYxO4apskMM7i6-14" value="&lt;font style=&quot;font-size: 37px;&quot;&gt;6&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="920" y="-320" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NILFLuNYxO4apskMM7i6-16" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Finalizing project &lt;br&gt;scope &lt;br&gt;(2 day)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="710" y="-370" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="NILFLuNYxO4apskMM7i6-21" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;startArrow=classic;startFill=1;endArrow=none;endFill=0;" parent="1" source="NILFLuNYxO4apskMM7i6-17" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="-160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NILFLuNYxO4apskMM7i6-24" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="NILFLuNYxO4apskMM7i6-17" target="NILFLuNYxO4apskMM7i6-23" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NILFLuNYxO4apskMM7i6-17" value="&lt;font style=&quot;font-size: 37px;&quot;&gt;7&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="640" y="-40" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NILFLuNYxO4apskMM7i6-20" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Sprint 01 - Planning and &lt;br&gt;Backlog Grooming&lt;br&gt;(2 day)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="680" y="-150" width="240" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="NILFLuNYxO4apskMM7i6-27" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="NILFLuNYxO4apskMM7i6-23" target="NILFLuNYxO4apskMM7i6-26" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NILFLuNYxO4apskMM7i6-23" value="&lt;font style=&quot;font-size: 37px;&quot;&gt;8&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="640" y="200" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NILFLuNYxO4apskMM7i6-25" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Project &lt;br&gt;Initiation (3 day)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="700" y="90" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NILFLuNYxO4apskMM7i6-29" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="NILFLuNYxO4apskMM7i6-26" target="NILFLuNYxO4apskMM7i6-28" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NILFLuNYxO4apskMM7i6-26" value="&lt;font style=&quot;font-size: 37px;&quot;&gt;9&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="640" y="440" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NILFLuNYxO4apskMM7i6-33" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="NILFLuNYxO4apskMM7i6-28" target="NILFLuNYxO4apskMM7i6-32" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NILFLuNYxO4apskMM7i6-28" value="&lt;font style=&quot;font-size: 37px;&quot;&gt;10&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="640" y="680" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NILFLuNYxO4apskMM7i6-31" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Creating User &lt;br&gt;Stories (1 day)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="720" y="330" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NILFLuNYxO4apskMM7i6-32" value="&lt;font style=&quot;font-size: 37px;&quot;&gt;11&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="640" y="930" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NILFLuNYxO4apskMM7i6-34" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Design &lt;br&gt;Wireframes&lt;br&gt;(1 day)&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="720" y="555" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="NILFLuNYxO4apskMM7i6-39" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" parent="1" source="NILFLuNYxO4apskMM7i6-32" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="713.7464595092742" y="1221.4750196877199" as="sourcePoint" />
+            <mxPoint x="680" y="1240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NILFLuNYxO4apskMM7i6-37" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Design &lt;br&gt;Database&lt;br&gt;(2 day)&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="720" y="800" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="NILFLuNYxO4apskMM7i6-66" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;endArrow=none;endFill=0;startArrow=classic;startFill=1;" parent="1" source="NILFLuNYxO4apskMM7i6-38" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="1240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NILFLuNYxO4apskMM7i6-107" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="NILFLuNYxO4apskMM7i6-38" target="NILFLuNYxO4apskMM7i6-106" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NILFLuNYxO4apskMM7i6-38" value="&lt;font style=&quot;font-size: 37px;&quot;&gt;28&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="1160" y="1400" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NILFLuNYxO4apskMM7i6-40" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Build &lt;br&gt;Version 1&lt;br&gt;(1 day)&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="690" y="1090" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="NILFLuNYxO4apskMM7i6-45" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="NILFLuNYxO4apskMM7i6-41" target="NILFLuNYxO4apskMM7i6-44" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NILFLuNYxO4apskMM7i6-41" value="&lt;font style=&quot;font-size: 37px;&quot;&gt;12&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="920" y="-40" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NILFLuNYxO4apskMM7i6-43" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Design and&amp;nbsp;&lt;br&gt;Implement Institute &lt;br&gt;Login&lt;br&gt;(2 days)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="1000" y="65" width="190" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="NILFLuNYxO4apskMM7i6-48" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="NILFLuNYxO4apskMM7i6-44" target="NILFLuNYxO4apskMM7i6-47" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NILFLuNYxO4apskMM7i6-44" value="&lt;font style=&quot;font-size: 37px;&quot;&gt;13&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="920" y="200" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NILFLuNYxO4apskMM7i6-46" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Design and&amp;nbsp;Implement&amp;nbsp;&lt;br&gt;Offchain&lt;br&gt;(3 days)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="1000" y="310" width="230" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="NILFLuNYxO4apskMM7i6-51" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="NILFLuNYxO4apskMM7i6-47" target="NILFLuNYxO4apskMM7i6-50" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NILFLuNYxO4apskMM7i6-47" value="&lt;font style=&quot;font-size: 37px;&quot;&gt;14&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="920" y="440" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NILFLuNYxO4apskMM7i6-49" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Design and&amp;nbsp;Implement&amp;nbsp;&lt;br&gt;Certificate Upload &lt;br&gt;and Management&lt;br&gt;(3 days)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="980" y="545" width="230" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="NILFLuNYxO4apskMM7i6-62" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="NILFLuNYxO4apskMM7i6-50" target="NILFLuNYxO4apskMM7i6-61" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NILFLuNYxO4apskMM7i6-50" value="&lt;font style=&quot;font-size: 37px;&quot;&gt;15&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="920" y="680" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NILFLuNYxO4apskMM7i6-52" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Design and&amp;nbsp;Implement&amp;nbsp;&lt;br&gt;Verification System&lt;br&gt;for Students&lt;br&gt;(3 days)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="970" y="780" width="230" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="NILFLuNYxO4apskMM7i6-54" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Build &lt;br&gt;Version 2&lt;br&gt;(1 day)&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="1110" y="1220" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="NILFLuNYxO4apskMM7i6-56" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;startArrow=classic;startFill=1;endArrow=none;endFill=0;" parent="1" source="NILFLuNYxO4apskMM7i6-55" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1280" y="-200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NILFLuNYxO4apskMM7i6-65" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="NILFLuNYxO4apskMM7i6-55" target="NILFLuNYxO4apskMM7i6-64" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NILFLuNYxO4apskMM7i6-55" value="&lt;font style=&quot;font-size: 37px;&quot;&gt;18&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="1240" y="-40" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NILFLuNYxO4apskMM7i6-59" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Sprint 02 - Planning and&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Backlog Grooming&lt;br&gt;(2 days)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="960" y="-170" width="240" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="NILFLuNYxO4apskMM7i6-60" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Sprint 03 - Planning and&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Backlog Grooming&lt;br&gt;(2 days)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="1280" y="-160" width="240" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="NILFLuNYxO4apskMM7i6-69" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="NILFLuNYxO4apskMM7i6-61" target="NILFLuNYxO4apskMM7i6-67" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NILFLuNYxO4apskMM7i6-61" value="&lt;font style=&quot;font-size: 37px;&quot;&gt;16&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="920" y="920" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NILFLuNYxO4apskMM7i6-73" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="NILFLuNYxO4apskMM7i6-64" target="NILFLuNYxO4apskMM7i6-72" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NILFLuNYxO4apskMM7i6-64" value="&lt;font style=&quot;font-size: 37px;&quot;&gt;19&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="1240" y="200" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NILFLuNYxO4apskMM7i6-68" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="NILFLuNYxO4apskMM7i6-67" target="NILFLuNYxO4apskMM7i6-38" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NILFLuNYxO4apskMM7i6-67" value="&lt;font style=&quot;font-size: 37px;&quot;&gt;17&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="920" y="1160" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NILFLuNYxO4apskMM7i6-70" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Test the&lt;br&gt;Implemented&amp;nbsp;&lt;br&gt;Features&lt;br&gt;(1 day)&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="980" y="1030" width="140" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="NILFLuNYxO4apskMM7i6-71" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Design Blockchain&lt;br&gt;Structure and&amp;nbsp;&lt;br&gt;Implement With Harmony&lt;br&gt;Blockchain&lt;br&gt;(4 days)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="1280" y="55" width="250" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="NILFLuNYxO4apskMM7i6-76" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="NILFLuNYxO4apskMM7i6-72" target="NILFLuNYxO4apskMM7i6-75" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NILFLuNYxO4apskMM7i6-72" value="&lt;font style=&quot;font-size: 37px;&quot;&gt;20&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="1240" y="440" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NILFLuNYxO4apskMM7i6-74" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Design IPFS&lt;br&gt;Structure and&amp;nbsp;&lt;br&gt;Implement With Client &lt;br&gt;Server&lt;br&gt;(4 days)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="1291" y="290" width="220" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="NILFLuNYxO4apskMM7i6-81" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="NILFLuNYxO4apskMM7i6-75" target="NILFLuNYxO4apskMM7i6-80" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NILFLuNYxO4apskMM7i6-75" value="&lt;font style=&quot;font-size: 37px;&quot;&gt;21&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="1240" y="680" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NILFLuNYxO4apskMM7i6-77" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Implement&amp;nbsp;&lt;br&gt;Synchronization&lt;br&gt;of IPFS&lt;br&gt;(4 days)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="1308" y="545" width="170" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="NILFLuNYxO4apskMM7i6-86" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;endArrow=none;endFill=0;" parent="1" source="NILFLuNYxO4apskMM7i6-80" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1280" y="1160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NILFLuNYxO4apskMM7i6-80" value="&lt;font style=&quot;font-size: 37px;&quot;&gt;22&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="1240" y="920" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NILFLuNYxO4apskMM7i6-82" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Testing&lt;br&gt;(1 day)&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="1320" y="800" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NILFLuNYxO4apskMM7i6-85" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" target="NILFLuNYxO4apskMM7i6-38" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1280" y="1160" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NILFLuNYxO4apskMM7i6-87" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Build &lt;br&gt;Version 3&lt;br&gt;(1 day)&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="1291" y="1050" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="NILFLuNYxO4apskMM7i6-89" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;endArrow=none;endFill=0;startArrow=classic;startFill=1;" parent="1" source="NILFLuNYxO4apskMM7i6-88" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1600" y="-240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NILFLuNYxO4apskMM7i6-93" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="NILFLuNYxO4apskMM7i6-88" target="NILFLuNYxO4apskMM7i6-92" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NILFLuNYxO4apskMM7i6-88" value="&lt;font style=&quot;font-size: 37px;&quot;&gt;23&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="1640" y="-40" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NILFLuNYxO4apskMM7i6-91" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Sprint 04 - Planning and&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Backlog Grooming&lt;br&gt;(2 days)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="1650" y="-200" width="240" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="NILFLuNYxO4apskMM7i6-96" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="NILFLuNYxO4apskMM7i6-92" target="NILFLuNYxO4apskMM7i6-95" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NILFLuNYxO4apskMM7i6-92" value="&lt;font style=&quot;font-size: 37px;&quot;&gt;24&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="1640" y="200" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NILFLuNYxO4apskMM7i6-94" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Develop Offchain &lt;br&gt;Connection &lt;br&gt;With Blockchain&lt;br&gt;(2 days)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="1705" y="65" width="180" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="NILFLuNYxO4apskMM7i6-99" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="NILFLuNYxO4apskMM7i6-95" target="NILFLuNYxO4apskMM7i6-98" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NILFLuNYxO4apskMM7i6-95" value="&lt;font style=&quot;font-size: 37px;&quot;&gt;25&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="1640" y="440" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NILFLuNYxO4apskMM7i6-97" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Implement Offchain &lt;br&gt;Connection &lt;br&gt;With Blockchain&lt;br&gt;(2 days)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="1695" y="295" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="NILFLuNYxO4apskMM7i6-102" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="NILFLuNYxO4apskMM7i6-98" target="NILFLuNYxO4apskMM7i6-101" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NILFLuNYxO4apskMM7i6-98" value="&lt;font style=&quot;font-size: 37px;&quot;&gt;26&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="1640" y="680" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NILFLuNYxO4apskMM7i6-100" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Implement Real&lt;br&gt;Time Updates&lt;br&gt;(3 days)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="1695" y="555" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="NILFLuNYxO4apskMM7i6-104" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="NILFLuNYxO4apskMM7i6-101" target="NILFLuNYxO4apskMM7i6-38" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NILFLuNYxO4apskMM7i6-101" value="&lt;font style=&quot;font-size: 37px;&quot;&gt;27&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="1640" y="960" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NILFLuNYxO4apskMM7i6-103" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Test the &lt;br&gt;Implemented &lt;br&gt;Featuers&lt;br&gt;(2 days)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="1695" y="810" width="140" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="NILFLuNYxO4apskMM7i6-105" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Build &lt;br&gt;Version 4&lt;br&gt;(1 day)&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="1470" y="1220" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="NILFLuNYxO4apskMM7i6-110" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="NILFLuNYxO4apskMM7i6-106" target="NILFLuNYxO4apskMM7i6-109" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NILFLuNYxO4apskMM7i6-106" value="&lt;font style=&quot;font-size: 37px;&quot;&gt;29&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="1160" y="1600" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NILFLuNYxO4apskMM7i6-108" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Code Review&lt;br&gt;(1 day)&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="1210" y="1510" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NILFLuNYxO4apskMM7i6-114" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="NILFLuNYxO4apskMM7i6-109" target="NILFLuNYxO4apskMM7i6-113" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NILFLuNYxO4apskMM7i6-109" value="&lt;font style=&quot;font-size: 37px;&quot;&gt;30&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="1160" y="1800" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NILFLuNYxO4apskMM7i6-111" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Testing, Analyse System &lt;br&gt;for Any Bugs&amp;nbsp;&amp;amp; Debugging&lt;br&gt;(4 day)&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="1210" y="1690" width="260" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="NILFLuNYxO4apskMM7i6-116" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;endArrow=none;endFill=0;startArrow=classic;startFill=1;" parent="1" source="NILFLuNYxO4apskMM7i6-112" target="NILFLuNYxO4apskMM7i6-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NILFLuNYxO4apskMM7i6-112" value="&lt;font style=&quot;font-size: 37px;&quot;&gt;32&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="320" y="1800" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NILFLuNYxO4apskMM7i6-115" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="NILFLuNYxO4apskMM7i6-113" target="NILFLuNYxO4apskMM7i6-112" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NILFLuNYxO4apskMM7i6-113" value="&lt;font style=&quot;font-size: 37px;&quot;&gt;31&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="720" y="1800" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NILFLuNYxO4apskMM7i6-117" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Final Approval&lt;br&gt;(1 day)&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="920" y="1850" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NILFLuNYxO4apskMM7i6-118" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Deployment&lt;br&gt;(1 day)&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="500" y="1850" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NILFLuNYxO4apskMM7i6-119" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Documentation&lt;br&gt;(50 days)&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="380" y="1240" width="160" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

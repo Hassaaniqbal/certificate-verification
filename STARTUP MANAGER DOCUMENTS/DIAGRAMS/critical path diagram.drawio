@@ -1,0 +1,76 @@
+<mxfile host="Electron" modified="2024-02-19T10:16:05.655Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/23.1.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="J9044qKY-47Yz0djMgNa" version="23.1.5" type="device">
+  <diagram name="Page-1" id="WFbgVAMQwS9lXhbYkQG2">
+    <mxGraphModel dx="1434" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="GYpSoa2xsQ0OiRQbW3Z7-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GYpSoa2xsQ0OiRQbW3Z7-1" target="GYpSoa2xsQ0OiRQbW3Z7-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GYpSoa2xsQ0OiRQbW3Z7-1" value="Initiating project and design phase&lt;br&gt;(9 days)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GYpSoa2xsQ0OiRQbW3Z7-3" value="Implement offchain connection with blockchain&lt;br&gt;(3 days)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="700" y="105" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GYpSoa2xsQ0OiRQbW3Z7-4" value="Implement connection of IPFS and offchain&lt;br&gt;(3 days)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="700" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GYpSoa2xsQ0OiRQbW3Z7-5" value="Testing and Evaluation" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1130" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GYpSoa2xsQ0OiRQbW3Z7-6" value="Implement real time updates&lt;br&gt;(3 days)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="920" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GYpSoa2xsQ0OiRQbW3Z7-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="GYpSoa2xsQ0OiRQbW3Z7-7" target="GYpSoa2xsQ0OiRQbW3Z7-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GYpSoa2xsQ0OiRQbW3Z7-7" value="Design and implement IPFS with client server&lt;br&gt;(4 days)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GYpSoa2xsQ0OiRQbW3Z7-8" value="Design and implement blockchain structure with harmony blockchain&lt;div&gt;(4 days)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="100" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="GYpSoa2xsQ0OiRQbW3Z7-9" value="Implementation of offchain&lt;br&gt;(18days)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GYpSoa2xsQ0OiRQbW3Z7-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="GYpSoa2xsQ0OiRQbW3Z7-9" target="GYpSoa2xsQ0OiRQbW3Z7-7" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="400" as="sourcePoint" />
+            <mxPoint x="710" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GYpSoa2xsQ0OiRQbW3Z7-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="GYpSoa2xsQ0OiRQbW3Z7-9" target="GYpSoa2xsQ0OiRQbW3Z7-8" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="400" as="sourcePoint" />
+            <mxPoint x="710" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GYpSoa2xsQ0OiRQbW3Z7-18" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="GYpSoa2xsQ0OiRQbW3Z7-8" target="GYpSoa2xsQ0OiRQbW3Z7-3" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="400" as="sourcePoint" />
+            <mxPoint x="710" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GYpSoa2xsQ0OiRQbW3Z7-20" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="GYpSoa2xsQ0OiRQbW3Z7-4" target="GYpSoa2xsQ0OiRQbW3Z7-6" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="400" as="sourcePoint" />
+            <mxPoint x="710" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GYpSoa2xsQ0OiRQbW3Z7-21" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.367;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="GYpSoa2xsQ0OiRQbW3Z7-3" target="GYpSoa2xsQ0OiRQbW3Z7-6" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="400" as="sourcePoint" />
+            <mxPoint x="710" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GYpSoa2xsQ0OiRQbW3Z7-22" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="GYpSoa2xsQ0OiRQbW3Z7-6" target="GYpSoa2xsQ0OiRQbW3Z7-5" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="400" as="sourcePoint" />
+            <mxPoint x="710" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
